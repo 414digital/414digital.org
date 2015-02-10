@@ -1,0 +1,36 @@
+tbody td.toplevelHeader
+{
+	background: url(tabletree-arrow.gif) no-repeat 2px 50%;
+	padding-left: 15px !important;
+}
+tbody td.foldoutStart
+{
+	background: url(tabletree-dots.gif) 18px 54% no-repeat;
+	padding-left: 26px !important;
+}
+
+tbody td.foldoutEnd
+{
+	background: url(tabletree-dots2.gif) 18px 54% no-repeat;
+	padding-left: 26px !important;
+}
+	
+/* --- Even SubRow Background --- */	
+table.qlabs_grid_container tbody.data_container tr.data_subrow_even
+{
+	background: #f5f5f5;
+}
+
+/* --- Odd SubRow Background --- */	
+table.qlabs_grid_container tbody.data_container tr.data_subrow_odd
+{
+	background: #ffffff;
+}
+	
+/* --- Override default grid centering and max-width --- */
+table.qlabs_grid_container 
+{
+	margin-left:0;
+	margin-right:0;
+	max-width:1170px;	
+}

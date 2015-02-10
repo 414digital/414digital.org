@@ -1,0 +1,150 @@
+.mm-dsm-header{
+	background-color: #066CD2;
+    color: #fff;
+    font-size: 12px;
+    border-radius: 3px 3px 0px 0px;
+    font-weight: bold;
+    line-height: 14px;
+    padding: 6px 10px;
+}
+.mm-dsm-header-access-types{
+	background-color: #46A0F9;
+    color: #fff;
+    border-radius: 3px 3px 0px 0px;
+    font-size: 12px;
+    font-weight: bold;
+    line-height: 17px;
+    padding: 6px 10px;
+    width: 170px;
+}
+.mm-dsm-header-image-left{
+	float:left;
+	padding-top: 2px;
+	padding-right: 5px;
+	padding-left: 5px;
+}
+.mm-dsm-header-image-right{
+	float:right;
+	padding-top: 2px;
+	padding-right: 5px;
+	padding-left: 5px;
+}
+
+.mm-dsm-day-part1{
+	text-align:center;
+	border-right:1px solid #CCC;
+	color: #666;
+	width: 30px;
+}
+.mm-dsm-day-number{
+	width: 50px;	
+}
+
+.mm-dsm-cell{
+	text-align:center;
+	border:1px solid #CCC;
+	color: #666;
+	border-radius: 3px;
+}
+
+.mm-dsm-cell-days{
+	
+	height: 100%;width: 100%;	
+}
+
+.mm-dsm-expanded-row{
+		
+	width: 100%;
+	display:none;
+}
+.mm-dsm-cell-content-expanded-none{
+	width: 100%;
+	border-bottom:0px solid #CCC;
+	padding: 5px 5px 5px 5px;
+	color: #666;
+	
+}
+.mm-dsm-cell-content-expanded{
+	width: 100%;
+	border-bottom:1px dotted #CCC;
+	padding: 5px 5px 5px 5px;
+	color: #666;
+}
+
+.mm-dsm-cell-expand {
+	text-align:center;
+	border-right:1px solid #CCC;
+	color: #666;
+	width: 20px;
+}
+
+.mm-dsm-cell-content {
+	text-align:left;
+	width: 525px;
+}
+
+.mm-dsm-imagelink{
+	cursor: pointer;
+}
+
+.mm-dsm-cell-types{
+	text-align:center;
+	border:1px solid #B5BBC3;
+	color: #666;
+	border-radius: 3px;
+	background-color: #EAF2FA;
+}
+.mm-dsm-options{
+	color: #666;
+	padding: 5px 5px 5px 5px; 
+	border: 1px solid #CCC; 
+	background-color: white;
+	height: 125px;
+	overflow: auto;
+	width: 230px	
+}
+.mm-dsm-expand-collapse-links{
+	color: #666;	
+}
+.mm-dsm-options-right{
+	color: #666;
+	padding: 5px 5px 5px 5px; 
+	border: 1px solid #CCC; 
+	background-color: white;
+	width: 230px;	
+	overflow: auto;
+	height: 125px;
+	float:left;
+}
+.mm-dsm-options-right-middle{
+	float:left;
+	margin-top: 50px;
+	text-align:center;
+	width: 25px;
+}
+.mm-dsm-section-button{
+	clear:both;
+	margin-top: 5px;
+}
+.mm-dsm-cell-types-alt{
+	text-align:center;
+	border:1px solid #CCC;
+	color: #666;
+	border-radius: 3px;
+}
+.mm-dsm-clear10{
+	clear:both;
+	padding-top: 10px;	
+}
+.mm-dsm-section-summary{
+	height: 40px;	
+}
+.mm-dsm-copy-schedule{
+	color: #666;
+	float:left;
+}
+.mm-dsm-view-schedule{
+	float:left;
+	color: #666;
+	width: 400px;
+}

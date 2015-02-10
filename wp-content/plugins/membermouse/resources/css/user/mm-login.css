@@ -1,0 +1,58 @@
+@CHARSET "UTF-8";
+.mm-login {
+	width: 600px;
+}
+
+.mm-login p.mm-error {
+	font-size: 18px;
+	background:#CC3C3F;
+	padding:5px;
+	margin:0px;
+	border-radius:5px;
+	color: #fff;
+	text-shadow:1px 1px 0px rgba(0,0,0,0.25);
+}
+
+.mm-login h3 {
+	margin: 10px 0px 20px 0px;
+}
+
+.mm-login table {
+	width: 100%;
+	margin: 0px;
+	border: 0px;
+}
+
+.mm-login tr {
+	height:40px;
+}
+
+.mm-login td {
+	border: 0px;
+}
+
+.mm-login .mm-label-column {
+	width: 100px;
+}
+
+.mm-login .mm-field-column {
+}
+
+.mm-login .mm-label {
+}
+
+.mm-login .mm-field {
+	width: 200px;
+}
+
+#mm-login-button {
+	width:140px;
+}
+
+.mm-login .mm-remember-me {
+	margin-left: 15px;
+}
+
+.mm-login .mm-forgot-password {
+	font-size:14px;
+}

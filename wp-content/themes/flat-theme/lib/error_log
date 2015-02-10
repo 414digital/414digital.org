@@ -1,0 +1,2 @@
+[12-Jan-2015 22:07:58 UTC] PHP Fatal error:  Call to undefined function zee_option() in /home/mima/public_html/wp-content/themes/flat-theme/lib/sendemail.php on line 16
+[12-Jan-2015 22:08:18 UTC] PHP Fatal error:  Call to undefined function zee_option() in /home/mima/public_html/wp-content/themes/flat-theme/lib/sendemail.php on line 16

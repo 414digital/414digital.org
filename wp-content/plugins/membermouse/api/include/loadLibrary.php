@@ -1,0 +1,9 @@
+<?php
+require_once('config.php');
+require_once(BASE_DIR.'lib/RestServer.class.php');
+require_once(BASE_DIR.'lib/RestAction.class.php');
+require_once(BASE_DIR.'lib/RestView.class.php');
+require_once(BASE_DIR.'lib/RestController.class.php');
+require_once(BASE_DIR.'lib/GenericView.class.php');
+require_once(BASE_DIR.'lib/RestRequest.class.php');
+require_once(BASE_DIR.'lib/RestResponse.class.php');

@@ -1,0 +1,224 @@
+@CHARSET "UTF-8";
+.mm-myaccount {
+	font-size:14px;
+	color:#333;
+	margin:0 auto;
+	padding:0px;
+	width: 100%;
+}
+.mm-myaccount img {
+	box-shadow: 0 0px 0px rgba(0, 0, 0, 0);
+}
+.mm-myaccount p.mm-error {
+	font-size: 18px;
+	background:#CC3C3F;
+	padding:10px;
+	margin:10px;
+	border-radius:5px;
+	color: #fff;
+	text-shadow:1px 1px 0px rgba(0,0,0,0.25);
+}
+.mm-myaccount-module {
+	margin:10px;
+	border:2px solid #e5e5e5;
+	padding:0px;
+	border-radius:5px;
+	overflow:auto;
+}
+.mm-myaccount-content-wrapper {
+	padding: 10px;
+}
+.mm-myaccount-block {
+	width: 50%; 
+	float: left;
+}
+.mm-myaccount-module-header {
+	font-size: 15px;
+	background: #e5e5e5;
+	padding: 8px;
+	color: #555;
+}
+.mm-myaccount-module-header img {
+	vertical-align: middle; 
+	padding-right: 4px;
+}
+.mm-update-button {
+	font-size: 12px;
+	margin-left: 5px;
+	font-variant: small-caps;
+	background:#ccc;
+	padding:2px 6px 4px 6px;
+	border-radius:3px;
+	text-decoration: none;
+	color: #666;
+}
+.mm-update-button:hover {
+	text-decoration: underline;
+	color: #666;
+}
+.mm-myaccount-element {
+	margin: 0px !important;
+	padding: 0px;
+}
+.mm-myaccount-label {
+}
+.mm-myaccount-data {
+}
+
+#mm-account-details-section {
+}
+#mm-account-details-header {
+}
+#mm-account-details-body {
+	margin-bottom:10px;
+}
+#mm-account-profile-body {
+}
+#mm-element-password {
+	margin-bottom: 10px !important;
+}
+.mm-cancel-membership-button, .mm-cancel-subscription-button, .mm-update-subscription-button {
+	font-size: 12px;
+	color: #333;
+}
+
+#mm-billing-shipping-info-section {
+}
+#mm-billing-info-container {
+}
+#mm-billing-info-header {
+}
+#mm-billing-info-body {
+}
+
+#mm-shipping-info-container {
+}
+#mm-shipping-info-header {
+}
+#mm-shipping-info-body {
+}
+
+#mm-subscription-info-section {
+}
+#mm-subscription-info-header {	
+}
+#mm-subscription-info-body {
+}
+#mm-subscriptions-table {
+	width: 100%;
+}
+#mm-subscriptions-table th {
+	font-weight: bold;
+	text-align: left;
+}
+
+#mm-social-login-section {
+}
+#mm-social-login-header {	
+}
+#mm-social-login-body {
+}
+
+#mm-order-history-section {
+}
+#mm-order-history-header {
+}
+#mm-order-history-body {
+}
+#mm-order-history-table {
+	width: 100%;
+}
+#mm-order-history-table th {
+	font-weight: bold;
+	text-align: left;
+}
+
+
+#mm-gift-history-section {
+}
+#mm-gift-history-header {
+}
+#mm-gift-history-body {
+}
+#mm-gift-history-table {
+	width: 100%;
+}
+#mm-gift-history-table th {
+	font-weight: bold;
+	text-align: left;
+}
+
+
+#mm-form-container table {
+	border: 0px;
+}
+#mm-form-container td {
+	vertical-align: middle;
+	width: 120px;
+	border: 0px;
+}
+
+.mm-myaccount-dialog-label {
+}
+.mm-myaccount-field-input {
+	width:280px;
+}
+.mm-myaccount-field-text {
+	width:280px;
+	height:75px;
+}
+.mm-myaccount-field-radio {
+	display:block; clear:both;
+}
+.mm-myaccount-field-dropdown {
+}
+.mm-myaccount-field-checkbox {
+}
+.mm-myaccount-dialog-section-header {
+	background:#666;
+	padding:10px;
+	border-radius:5px;
+	color: #fff;
+	text-shadow:1px 1px 0px rgba(0,0,0,0.25);
+	margin-top: 10px;
+	margin-bottom: 10px;
+	text-transform: uppercase;
+}
+
+#mm-myaccount-order-history-dialog #mm-order-history-table th {
+	font-size: 0.785714286rem;
+	line-height: 2.181818182;
+	text-transform: uppercase;
+	color: #636363;
+	font-weight: bold;
+	text-align: left;
+	border-bottom: 1px solid #EDEDED;
+}
+#mm-myaccount-order-history-dialog #mm-order-history-table td {
+	font-weight: normal;
+	text-align: left;
+	border-bottom: 1px solid #EDEDED;
+	border-spacing: 2px;
+	font-size: 12px;
+	color: #757575;
+	padding: 6px 10px 6px 0;
+}
+
+#mm-myaccount-gift-history-dialog #mm-gift-history-table th {
+	font-size: 0.785714286rem;
+	line-height: 2.181818182;
+	text-transform: uppercase;
+	color: #636363;
+	font-weight: bold;
+	text-align: left;
+	border-bottom: 1px solid #EDEDED;
+}
+#mm-myaccount-gift-history-dialog #mm-gift-history-table td {
+	font-weight: normal;
+	text-align: left;
+	border-bottom: 1px solid #EDEDED;
+	border-spacing: 2px;
+	font-size: 12px;
+	color: #757575;
+	padding: 6px 10px 6px 0;
+}
